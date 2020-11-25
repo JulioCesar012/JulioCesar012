@@ -12,10 +12,6 @@ Meu nome é <strong>Julio Filho</strong>, sou programador <strong>full-Stack �
   <img src="https://img.shields.io/badge/-rodriguesjuliocesar145@gmail.com-054f77?style=flat&logo=gmail&logoColor=white&link=mailto:luizcarlosvilela@outlook.com.br/" alt="badge-outlook"/>
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5512997095524">
-  <img src="https://img.shields.io/badge/-12997095524-054f77?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512997095524" alt="badge-outlook"/>
-</a>
-
 ## ***Áreas de atuação 📚***
 
 * ***Back-end*** 
