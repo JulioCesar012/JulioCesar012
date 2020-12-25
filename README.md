@@ -9,15 +9,6 @@ Meu nome é <strong>Julio Filho</strong>, sou programador <strong>full-Stack �
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguesjuliocesar145@gmail.com)](mailto:rodriguesjuliocesar145@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://juliofilho012.medium.com/)](https://juliofilho012.medium.com/)
 
-## ***Áreas de atuação 📚***
-
-* ***Back-end*** 
-* ***Front-end (Web and Mobile)***
-* ***Mobile (Desenvolvimento de apps)***
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar012&layout=compact" alt="Top languages"/>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" alt="Express" width="100px" height="21px"></a>
@@ -40,6 +31,15 @@ Meu nome é <strong>Julio Filho</strong>, sou programador <strong>full-Stack �
 <a href="https://electron.atom.io/" title="Electron"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/electron.svg" alt="Electron" width="21px" height="21px"></a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="21px" height="21px"></a>
 <a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
+
+## ***Áreas de atuação 📚***
+
+* ***Back-end*** 
+* ***Front-end (Web and Mobile)***
+* ***Mobile (Desenvolvimento de apps)***
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar012&layout=compact" alt="Top languages"/>
 
 ## - Projetos Principais  💻 
 <br />
