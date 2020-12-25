@@ -4,13 +4,10 @@ Meu nome é <strong>Julio Filho</strong>, sou programador <strong>full-Stack �
 
 #### ***Contact ☎️***
 
-<a href="https://www.linkedin.com/in/julio-cesar-filho-759653171" target="_blank"> 
-    <img src="https://img.shields.io/badge/Developer-Julio%20Filho-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
-  </a>
-
-<a href="mailto:rodriguesjuliocesar145@gmail.com">
-  <img src="https://img.shields.io/badge/-rodriguesjuliocesar145@gmail.com-054f77?style=flat&logo=gmail&logoColor=white&link=mailto:luizcarlosvilela@outlook.com.br/" alt="badge-outlook"/>
-</a>
+[![Portfolio Badge](https://img.shields.io/badge/Developer-Portifólio-black)](https://github.com/JulioCesar012)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-cesar-filho-759653171/)](https://www.linkedin.com/in/julio-cesar-filho-759653171/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguesjuliocesar145@gmail.com)](mailto:rodriguesjuliocesar145@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://juliofilho012.medium.com/)](https://juliofilho012.medium.com/)
 
 ## ***Áreas de atuação 📚***
 
@@ -21,11 +18,29 @@ Meu nome é <strong>Julio Filho</strong>, sou programador <strong>full-Stack �
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar012&layout=compact" alt="Top languages"/>
 
-<img src="https://img.shields.io/badge/-HTML%205-E34F26?logo=HTML5&logoColor=white&labelColor=E34F26" alt="Html" /> <img src="https://img.shields.io/badge/-CSS%203-1572B6?logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC" alt="Typescript" /> <img src="https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=white&labelColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-React_Native%20-3578e5?logo=react&logoColor=white&labelColor=3578e5" alt="React" /> <img src="https://img.shields.io/badge/-Node%20JS-green?logo=node.js&logoColor=white&labelColor=green" alt="Node" /> <img src="https://img.shields.io/badge/-SQlite%203-003B57?logo=SQlite&logoColor=white&labelColor=003B57" alt="SQlite3" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&labelColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=MySQL&logoColor=white&labelColor=336791" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/-Android-1EA83E?logo=Android&logoColor=white&labelColor=1EA83E" alt="Android" />
-<img src="https://img.shields.io/badge/-Ios-3F3F3F?logo=apple&logoColor=white&labelColor=3F3F3F" alt="Ios" />
-<img src="https://img.shields.io/badge/-Yarn-336791?logo=yarn&logoColor=white&labelColor=336791" alt="Yarn" /> 
-<img src="https://img.shields.io/badge/-Git-E1432A?logo=git&logoColor=white&labelColor=E1432A" alt="Git" /> <img src="https://img.shields.io/badge/-Linux-D1952C?logo=linux&logoColor=white&labelColor=D1952C" alt="Linux" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+<a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="21px" height="21px"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
+<a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="21px" height="21px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
+<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="21px" height="21px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+<a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
+<a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
+<a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webpack.svg" alt="webpack" width="21px" height="21px"></a>
+<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+<a href="https://electron.atom.io/" title="Electron"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/electron.svg" alt="Electron" width="21px" height="21px"></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
+<a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="21px" height="21px"></a>
+<a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
 
 ## - Projetos Principais  💻 
 <br />
