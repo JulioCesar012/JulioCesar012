@@ -3,7 +3,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/Developer-Portifólio-black)](https://github.com/JulioCesar012)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-cesar-filho-759653171/)](https://www.linkedin.com/in/julio-cesar-filho-759653171/)
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguesjuliocesar145@gmail.com)](mailto:rodriguesjuliocesar145@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://juliofilho012.medium.com/)](https://juliofilho012.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@juliofilho12)](https://medium.com/@juliofilho12)
 
 Meu nome é <strong>Julio Filho</strong>, sou programador <strong>full-Stack 👨‍💻</strong> faço vários projetos web, mobile. Sempre procuro ajudar outros, seja por um post ou video na internet. Programar pra mim é além de hobby, é uma paixão 💙, por isso dou o meu melhor no que faço. Espero poder ajuda o mundo de alguma forma com meu trabalho, amo a comunidade de devs, todas tecnologias são demais, experimente e se adapte com a que mais te atraia!
 
