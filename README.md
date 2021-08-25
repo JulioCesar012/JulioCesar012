@@ -49,8 +49,8 @@ Meu nome Ã© <strong>Julio Filho</strong>, sou programador <strong>full-Stack ðŸ‘
   <a href="https://github.com/JulioCesar012/InterfacePipefy#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=InterfacePipefy&theme=tokyonight&show_icons=true" />
   </a>
-   <a></a>
-  <a href="https://github.com/JulioCesar012/Omnistack-11#readme">
+
+<a href="https://github.com/JulioCesar012/Omnistack-11#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=Omnistack-11&theme=tokyonight&show_icons=true" />
   </a>
    <a href="https://github.com/JulioCesar012/Clone_Twitter#readme">
