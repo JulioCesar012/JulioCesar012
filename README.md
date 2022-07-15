@@ -22,6 +22,8 @@ Nos últimos anos venho estudando muito a stack mern. E tive a oportunidade de e
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="21px" height="21px"></a>
+<a href="" title="Next.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="Next.js" 
+width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
