@@ -37,10 +37,8 @@ width="21px" height="21px"></a>
 
 ## ***Áreas de atuação 📚***
 
-* ***Back-end*** 
 * ***Front-end (Web and Mobile)***
-* ***Mobile (Desenvolvimento de apps)***
-
+* ***Back-end*** 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar012&layout=compact" alt="Top languages"/>
 
