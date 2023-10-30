@@ -1,6 +1,6 @@
 ### Hello my friends! 🙋‍♂️
 
-[![Portfolio Badge](https://img.shields.io/badge/Developer-Portifólio-black)](https://juliofilho.tk)
+[![Portfolio Badge](https://img.shields.io/badge/Developer-Portifólio-black)](https://devjulio.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-cesar-filho-759653171/)](https://www.linkedin.com/in/julio-cesar-filho-759653171/)
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguesjuliocesar145@gmail.com)](mailto:rodriguesjuliocesar145@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@juliofilho12)](https://medium.com/@juliofilho12)
