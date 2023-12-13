@@ -46,19 +46,19 @@ width="21px" height="21px"></a>
 
 <table>
 <tr>
-<td>
+<td align="center">
 <a href="https://github.com/JulioCesar012/portfolio-website-nextjs#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=portfolio-website-nextjs&theme=tokyonight&show_icons=true" />
 </a>
 </td>
 
-<td>
+<td align="center">
 <a href="https://github.com/JulioCesar012/dictionary_web#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=dictionary_web&theme=tokyonight&show_icons=true" />
 </a>
 </td>
 
-<td>
+<td align="center">
 <a href="https://github.com/JulioCesar012/ClimaTempoAmbar#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=ClimaTempoAmbar&theme=tokyonight&show_icons=true" />
 </a>
@@ -66,21 +66,19 @@ width="21px" height="21px"></a>
 </tr>
 
 <tr>
-<td>
-
+<td align="center">
 <a href="https://github.com/JulioCesar012/Clone_Twitter#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=Clone_Twitter&theme=tokyonight&show_icons=true" />
 </a>
 </td>
 
-<td>
-
+<td align="center">
 <a href="https://github.com/JulioCesar012/Search_My_Cep">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=Search_My_Cep&theme=tokyonight&show_icons=true" />
 </a>
 </td>
 
-<td>
+<td align="center">
 <a href="https://github.com/JulioCesar012/WebsitePortifolioReact#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=WebsitePortifolioReact&theme=tokyonight&show_icons=true" />
 </a>
