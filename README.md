@@ -40,49 +40,44 @@ width="21px" height="21px"></a>
 - **_Front-end (Web and Mobile)_**
 - **_Back-end_**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar012&layout=compact" alt="Top languages"/>
+|<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar012&layout=compact" alt="Top languages"/></a> | <a><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioCesar012&theme=nord_dark" ></a> |
+| ------------- | ------------- |
 
 ## - Projetos Principais 💻
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/JulioCesar012/portfolio-website-nextjs#readme">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=portfolio-website-nextjs&theme=tokyonight&show_icons=true" />
-</a>
-</td>
+<p align="left">
+<a href="https://github.com/JulioCesar012/portfolio-website-nextjs#readme" title="Portfolio Website Next.js"><img src="https://github.com/JulioCesar012/portfolio-website-nextjs/blob/main/public/images/juliofilho_website.png" width="280px" align="left" title="Portfolio Website Next.js"/></a>
+<a href="https://github.com/JulioCesar012/portfolio-website-nextjs"><strong>Portfolio Website Next.js</strong></a>
+ 
+<strong>Tecnoogia Usada : Next.js</strong>
 
-<td align="center">
-<a href="https://github.com/JulioCesar012/dictionary_web#readme">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=dictionary_web&theme=tokyonight&show_icons=true" />
-</a>
-</td>
+<strong>Site de portfolio da minha jornada como desenvolvedor frontend/fullstack.Contém projetos reais que eu já desenvolvi do zero.</strong></p><br>
 
-<td align="center">
-<a href="https://github.com/JulioCesar012/ClimaTempoAmbar#readme">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=ClimaTempoAmbar&theme=tokyonight&show_icons=true" />
-</a>
-</td>
-</tr>
+<p align="left">
+<a href="https://github.com/JulioCesar012/dictionary_web/blob/main/README.md" title="dictionary_web"><img src="https://github.com/JulioCesar012/dictionary_web/raw/main/public/dictionary.png" width="280px" align="left" title="Dictionary Web"/></a>
+<a href="https://github.com/JulioCesar012/dictionary_web"><strong>Dictionary Web</strong></a>
+ 
+<strong>Tecnologia: Next.js</strong>
 
-<tr>
-<td align="center">
-<a href="https://github.com/JulioCesar012/Clone_Twitter#readme">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=Clone_Twitter&theme=tokyonight&show_icons=true" />
-</a>
-</td>
+<strong>O projeto Dictionary foi feito para o challenge by coodesh. Ele é um dicionário que lista diversas palavras em inglês e faz uma busca na API do freeDictionaryAPI. Contém um player de audio onde reproduz a tradução em voz, e também salva no browser o histórico das palavras visualizadas e audios favoritados.</strong></p><br>
+</div>
 
-<td align="center">
-<a href="https://github.com/JulioCesar012/Search_My_Cep">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=Search_My_Cep&theme=tokyonight&show_icons=true" />
-</a>
-</td>
+<p align="left">
+<a href="https://github.com/JulioCesar012/ClimaTempoAmbar/blob/master/README.md" title="ClimaTempoAmbar"><img src="https://github.com/JulioCesar012/ClimaTempoAmbar/raw/master/src/assets/TelaInicialPC.png" width="280px" align="left" title="ClimaTempoAmbar"/></a>
+    
+<a href="https://github.com/JulioCesar012/ClimaTempoAmbar"><strong>Clima Tempo Ambar</strong></a>
+ 
+<strong>Tecnologia: React + Redux</strong>
 
-<td align="center">
-<a href="https://github.com/JulioCesar012/WebsitePortifolioReact#readme">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=WebsitePortifolioReact&theme=tokyonight&show_icons=true" />
-</a>
-</td>
+<strong>Projeto de avaliação para vaga de Developer Frontend na Ambar. O objetivo é obter a temperatura local da cidade do usuário e persistir essa informação no browser do usuário por meio do redux persist.</strong></p><br>
 
-</tr>
-</table>
+<p align="left">
+<a href="https://github.com/JulioCesar012/Clone_Twitter/blob/master/README.md" title="Clone_Twitter"><img src="https://github.com/JulioCesar012/Clone_Twitter/raw/master/github/clone_twitter.png" width="280px" align="left" title="Clone_Twitter"/></a>
+    
+<a href="https://github.com/JulioCesar012/Clone_Twitter"><strong>Clone Twitter</strong></a>
+ 
+<strong>Tecnologia: React + Redux</strong>
+
+<strong>Clone do Twitter 100% responsivo feito com React + Typescript.</strong></p><br>
+
+</div>
