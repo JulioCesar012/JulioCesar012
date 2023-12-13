@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguesjuliocesar145@gmail.com)](mailto:rodriguesjuliocesar145@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@juliofilho12)](https://medium.com/@juliofilho12)
 
-Meu nome é <strong>Julio Cesar</strong>, sou programador <strong>full-Stack nas horas  vagas👨‍💻</strong>. Foco no frontend das aplicações. Sempre procuro ajudar outros, seja por um post ou video na internet. Programar pra mim é muito além de digitar linhas de código, é inovar o mundo, criar soluções que vão ajudar pessoas a resolver seus problemas. Por isso dou o meu melhor no que faço. Espero poder te no que eu puder, com meu trabalho. Curto muito a comunidade de devs. Sou focado em Javascript, e no front utilizo o React.js/Next.js 💙!
+Meu nome é <strong>Julio Cesar</strong>, sou programador <strong>full-Stack nas horas vagas👨‍💻</strong>. Foco no frontend das aplicações. Sempre procuro ajudar outros, seja por um post ou video na internet. Programar pra mim é muito além de digitar linhas de código, é inovar o mundo, criar soluções que vão ajudar pessoas a resolver seus problemas. Por isso dou o meu melhor no que faço. Espero poder te no que eu puder, com meu trabalho. Curto muito a comunidade de devs. Sou focado em Javascript, e no front utilizo o React.js/Next.js 💙!
 
 Nos últimos anos venho estudando muito frontend, e aprimorando meu conhecimento sobre arquiteturas frontend robustas. Tive a oportunidade de trabalhar em fronts legados, marketplaces, erps, e pwas para um grande banco, também desenvolvi do zero um pwa para o seguimento de seguro de vida, no qual utilizamos uma arquitetura robusta e moderna capaz de reduzir repetições de código em 40%. Configra mais no meu site pessoal <a href="https://devjulio.tk">devjulio</a>
 
@@ -35,33 +35,56 @@ width="21px" height="21px"></a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="21px" height="21px"></a>
 <a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
 
-## ***Áreas de atuação 📚***
+## **_Áreas de atuação 📚_**
 
-* ***Front-end (Web and Mobile)***
-* ***Back-end*** 
+- **_Front-end (Web and Mobile)_**
+- **_Back-end_**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar012&layout=compact" alt="Top languages"/>
 
-## - Projetos Principais  💻 
-<br />
+## - Projetos Principais 💻
 
+<table>
+<tr>
+<td>
 <a href="https://github.com/JulioCesar012/portfolio-website-nextjs#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=portfolio-website-nextjs&theme=tokyonight&show_icons=true" />
 </a>
+</td>
+
+<td>
 <a href="https://github.com/JulioCesar012/dictionary_web#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=dictionary_web&theme=tokyonight&show_icons=true" />
 </a>
+</td>
 
+<td>
 <a href="https://github.com/JulioCesar012/ClimaTempoAmbar#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=ClimaTempoAmbar&theme=tokyonight&show_icons=true" />
 </a>
+</td>
+</tr>
+
+<tr>
+<td>
+
 <a href="https://github.com/JulioCesar012/Clone_Twitter#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=Clone_Twitter&theme=tokyonight&show_icons=true" />
 </a>
+</td>
+
+<td>
+
 <a href="https://github.com/JulioCesar012/Search_My_Cep">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=Search_My_Cep&theme=tokyonight&show_icons=true" />
 </a>
+</td>
+
+<td>
 <a href="https://github.com/JulioCesar012/WebsitePortifolioReact#readme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCesar012&repo=WebsitePortifolioReact&theme=tokyonight&show_icons=true" />
 </a>
+</td>
 
+</tr>
+</table>
